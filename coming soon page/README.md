@@ -28,8 +28,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Github](https://github.com/DivyeshPatel007/Frontend-Mentor/tree/master/QR%20Code%20Component)
-- Live Site URL: [Vercel](https://qrcode-sigma-virid.vercel.app)
+- Solution URL: [Github](https://github.com/DivyeshPatel007/Frontend-Mentor/tree/master/coming%20soon%20page)
+- Live Site URL: [Vercel](https://frontend-mentor-gqv8.vercel.app/)
 
 ## My process
 
